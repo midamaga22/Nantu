@@ -2476,8 +2476,8 @@ textarea.form-control-lg {
     border-color: #50b5ff; }
 
 .btn-warning {
-  color: #ffffff;
-  background-color: #ff9f1c;
+  color: #131111;
+  background-color: #97ca3d;
   border-color: #ff9f1c; }
   .btn-warning:hover {
     color: #ffffff;
@@ -3284,6 +3284,7 @@ textarea.form-control-lg {
 
 @media (min-width: 992px) {
   .navbar-expand-lg {
+    background: #ff4ce3;
     flex-wrap: nowrap;
     justify-content: flex-start; }
     .navbar-expand-lg .navbar-nav {
