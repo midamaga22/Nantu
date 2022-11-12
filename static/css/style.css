@@ -2476,9 +2476,9 @@ textarea.form-control-lg {
     border-color: #50b5ff; }
 
 .btn-warning {
-  color: #131111;
-  background-color: #97ca3d;
-  border-color: #ff9f1c; }
+  color: #ece3e3;
+  background-color: #4a594b;
+  border-color: #fbf8f4; }
   .btn-warning:hover {
     color: #ffffff;
     background-color: #d98718;
@@ -3284,7 +3284,7 @@ textarea.form-control-lg {
 
 @media (min-width: 992px) {
   .navbar-expand-lg {
-    background: #213420;
+    background: #402525;
     flex-wrap: nowrap;
     justify-content: flex-start; }
     .navbar-expand-lg .navbar-nav {
@@ -3352,7 +3352,7 @@ textarea.form-control-lg {
     color: rgba(0, 0, 0, 0.9); }
 
 .navbar-light .navbar-nav .nav-link {
-  color: rgba(0, 0, 0, 0.55); }
+  color: rgba(255, 250, 250, 0.7); }
   .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
     color: rgba(0, 0, 0, 0.7); }
   .navbar-light .navbar-nav .nav-link.disabled {
