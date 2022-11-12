@@ -2365,12 +2365,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #008aff;
-  border-color: #008aff; }
+  background-color: #4a594b;
+  border-color: #4a594b;
+ }
   .btn-primary:hover {
     color: #ffffff;
-    background-color: #0075d9;
-    border-color: #006ecc; }
+    background-color: #402525;
+    border-color: #402525; }
   .btn-check:focus + .btn-primary, .btn-primary:focus {
     color: #ffffff;
     background-color: #0075d9;
@@ -11794,7 +11795,7 @@ article blockquote {
   display: none; }
 
 .fixed-header .navbar {
-  background: #ffffff;
+  background: #402525;
   box-shadow: 0 1rem 3rem rgba(1, 22, 39, 0.125); }
 
 .fixed-header .logo-light {
