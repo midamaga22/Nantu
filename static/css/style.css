@@ -3284,7 +3284,7 @@ textarea.form-control-lg {
 
 @media (min-width: 992px) {
   .navbar-expand-lg {
-    background: #ff4ce3;
+    background: #213420;
     flex-wrap: nowrap;
     justify-content: flex-start; }
     .navbar-expand-lg .navbar-nav {
@@ -11152,6 +11152,7 @@ img {
 
 @media (min-width: 992px) {
   .img-lg-120 {
+    border-radius: 100%;
     max-width: 94%; }
   .img-lg-140 {
     max-width: 140%; } }
