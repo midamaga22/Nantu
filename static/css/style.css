@@ -11143,7 +11143,9 @@ small,
       height: 2px; }
     .process-feature.last:after {
       display: none; } }
-
+.img-1 {
+  width: 14%;
+}
 img {
   max-width: 100%; }
 
@@ -12112,6 +12114,8 @@ article blockquote {
       padding-bottom: 3rem; } }
 
 .footer .footer-bottom {
+  padding: 1%;
+  background-color: #402525;
   border-top: 1px solid rgba(255, 255, 255, 0.1); }
   .footer .footer-bottom.dark {
     border-top: 1px solid rgba(1, 22, 39, 0.1); }
