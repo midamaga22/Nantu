@@ -11144,18 +11144,11 @@ small,
       height: 2px; }
     .process-feature.last:after {
       display: none; } }
-<<<<<<< HEAD
-      #center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-      }
-=======
+
 .img-1 {
   width: 14%;
 }
->>>>>>> footer
+
 img {
   max-width: 100%; }
 
