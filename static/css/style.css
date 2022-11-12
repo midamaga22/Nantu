@@ -3285,6 +3285,7 @@ textarea.form-control-lg {
 
 @media (min-width: 992px) {
   .navbar-expand-lg {
+    box-shadow: 0px 7px 8px #4427278f;
     background: #402525;
     flex-wrap: nowrap;
     justify-content: flex-start; }
@@ -11143,7 +11144,12 @@ small,
       height: 2px; }
     .process-feature.last:after {
       display: none; } }
-
+      #center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
 img {
   max-width: 100%; }
 
@@ -12061,6 +12067,7 @@ article blockquote {
 
 @media (max-width: 991.98px) {
   .header-main .navbar-expand-lg {
+    background-color: #402525;
     padding-top: 10px;
     padding-bottom: 10px; }
     .header-main .navbar-expand-lg .navbar-collapse {
